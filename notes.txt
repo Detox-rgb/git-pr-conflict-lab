@@ -1,5 +1,5 @@
 # Git PR Conflict Lab
 
-Shared line: original
+Shared line: changed by Account2
 
 End of file
