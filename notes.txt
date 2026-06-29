@@ -1,0 +1,5 @@
+# Git PR Conflict Lab
+
+Shared line: original
+
+End of file
